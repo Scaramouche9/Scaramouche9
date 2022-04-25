@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Scaramouche9
 - 👀 I’m interested in music, puzzles, board games, RPGs
-- 🌱 I’m currently learning html, css, and JavaScript in a web development course with CareerFoundry
+- 🌱 I’m currently teaching myself html, css, and JavaScript through free code camp and project based learning
 - 💞️ I’m looking to collaborate on anything! I'm quite new at this and could use any practice I can get.
 - 📫 How to reach me ... scaramouchescaramouche1991(at)gmail.com
 - Website: https://scaramouche9.github.io/Portfolio-Website/
