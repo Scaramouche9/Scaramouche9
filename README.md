@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Scaramouche9
 - 👀 I’m interested in music, puzzles, board games, RPGs
-- 🌱 I’m currently teaching myself html, css, and JavaScript through free code camp and project based learning
-- 💞️ I’m looking to collaborate on anything! I'm quite new at this and could use any practice I can get.
-- 📫 How to reach me ... scaramouchescaramouche1991(at)gmail.com
+- 🌱 I build custom websites using html, css, JS, React, Bootstrap...
+- 💞️ I have a new found passion for data and am teaching myself data analysis (SQL, Python, Pandas) via Kaggle
+- 📫 How to reach me ... emilygdavies42(at)gmail.com
 - Website: https://scaramouche9.github.io/Portfolio-Website/
 - Pokedex app: https://scaramouche9.github.io/simple_js_app/
 
