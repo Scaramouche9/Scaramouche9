@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Scaramouche9
-- 👀 I’m interested in music, puzzles, board games, RPGs
-- 🌱 I build custom websites using html, css, JS, React, Bootstrap...
+- 🧩 I’m interested in music, puzzles, board games, RPGs
+- 💻 I build custom websites using html, css, JS, React, Bootstrap...
 - 💞️ I have a passion for data and am teaching myself data analysis (SQL, Python, Pandas) via Kaggle and the IBM Data Analyst Program
 - 📫 How to reach me ... emilygdavies42(at)gmail.com
 - Website: https://scaramouche9.github.io/Portfolio-Website/
